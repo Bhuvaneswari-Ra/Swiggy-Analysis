@@ -12,7 +12,8 @@
 ---
 
 ##  Dashboard Preview
-![Swiggy Dashboard](./Dashboard.jpg)
+![Swiggy Dashboard](https://github.com/Bhuvaneswari-Ra/Swiggy-Analysis/commit/3d2c8bf1d58370624131aefe3681181ad29d1be3
+)
 
 > [Watch Dashboard Walkthrough](YOUR_LOOM_LINK_HERE)
 
